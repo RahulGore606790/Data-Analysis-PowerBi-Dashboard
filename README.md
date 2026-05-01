@@ -1,1 +1,5 @@
-I Developed a Comprehensive  Project in Power-Bi Cresting Multiple Dashboard and Tables to Analyze thr Data. this Process involve Serveral Stages,include Data Preprocessing,data cleaning,data modeling, and data visualization.
+#India-Retail-Sales-Data-Analysis (interactive Dashboard Cresting Using Power BI﻿)
+##Project Overview
+
+An interactive Power BI dashboard built to analyze India’s retail and sales data (FY 2026 - Q1).
+This project focuses on transforming raw data into meaningful insights using data visualization, DAX, and data modeling
