@@ -1,4 +1,5 @@
 #India-Retail-Sales-Data-Analysis (interactive Dashboard Cresting Using Power BI﻿)
+
 ##Project Overview
 
 An interactive Power BI dashboard built to analyze India’s retail and sales data (FY 2026 - Q1).
