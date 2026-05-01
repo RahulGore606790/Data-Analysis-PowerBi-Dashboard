@@ -1,1 +1,1 @@
-# Data-Analysis-PowerBi-Dashboard
+I Developed a Comprehensive  Project in Power-Bi Cresting Multiple Dashboard and Tables to Analyze thr Data. this Process involve Serveral Stages,include Data Preprocessing,data cleaning,data modeling, and data visualization.
