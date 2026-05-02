@@ -151,7 +151,7 @@ Use slicers to explore insights
 🙋‍♂️ About Me
 Rahul Gore
 🎯 Aspiring Data Analyst
-💡 Skilled in Power BI, Excel, Python
+💡 Skilled in Power BI, Excel, Python,Sql'Tablue
 
 ⭐ Support
 
